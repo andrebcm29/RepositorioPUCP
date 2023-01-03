@@ -1,2 +1,4 @@
-# RepositorioPUCP
-Repositorio para nuestro trabajo final.
+# Trabajo Final Lenguaje de Programación 2
+
+## Integrantes:
+   - Castillo Morín, André Benjamín     20210829
