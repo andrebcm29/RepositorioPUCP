@@ -1,6 +1,6 @@
 # Trabajo Final Lenguaje de Programación 2
 
-![Escudo UNALM](https://th.bing.com/th/id/R.b83043ac5b678eea4f684096cc506fe9?rik=yrBtGlNIrMK3jA&riu=http%3a%2f%2fweb.lamolina.edu.pe%2funidad_posgradofep%2fwp-content%2fuploads%2f2021%2f02%2fUNALM-Logo.png&ehk=tc1vb81OVcDPN3YgQ4Rtk6DFyGH%2fc97s10ccsSGhxKg%3d&risl=&pid=ImgRaw&r=0)
+![Escudo UNALM](https://i.postimg.cc/3NKHDvnQ/a.jpg)
 
 ## Profesora:
    - Ana Cecilia Vargas Paredes
