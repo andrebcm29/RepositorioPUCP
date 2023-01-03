@@ -1,6 +1,6 @@
 # Trabajo Final Lenguaje de Programación 2
 
-![Escudo UNALM](https://th.bing.com/th/id/R.52dd44b7a2216f320dcf3c18be17ffa5?rik=OrHYWTWdPakXNA&riu=http%3a%2f%2fwww.lamolina.edu.pe%2fportada%2fhtml%2facerca%2fescudos%2fdownload%2fcolor%2f856x973_ESCUDOCOLOR.png&ehk=MbrjdXR5tzYQiSbqK2KWDjm00OkYyRaAFc2EwVmy1xE%3d&risl=&pid=ImgRaw&r=0)
+![Escudo UNALM](https://th.bing.com/th/id/R.52dd44b7a2216f320dcf3c18be17ffa5?rik=OrHYWTWdPakXNA&riu=http%3a%2f%2fwww.lamolina.edu.pe%2fportada%2fhtml%2facerca%2fescudos%2fdownload%2fcolor%2f856x973_ESCUDOCOLOR.png&ehk=MbrjdXR5tzYQiSbqK2KWDjm00OkYyRaAFc2EwVmy1xE%3d&risl=&pid=ImgRaw&r=0){ width: 200px; } 
 
 ## Profesora:
    - Ana Cecilia Vargas Paredes
@@ -9,7 +9,7 @@
    - Castillo Morín, André Benjamín     20210829
    - Huazo Negron, Gianela Angielina    20211817
    - Mary Carmen Romero Cuenca          20191312
-   - 
+ 
 ### Caso a desarrollar:
 Se quiere obtenerinformación estructuradas de las tesis de pre grado y pos grado de Estadística, Informática o de carreras similares desarrolladas a nivel nacional, a través de los repositorios institucionales de las universidades.
 
