@@ -27,12 +27,6 @@ Se buscó automatizar la descarga de la información de los repositorios de las 
      - URL de tesis de Ing. de Sistemas e Informatica:
        https://cybertesis.unmsm.edu.pe/handle/20.500.12672/129
 
-
-   - Universidad Mayor de San Marcos
-     - URL: https://cybertesis.unmsm.edu.pe/handle/20.500.12672/129
-     - URL de tesis de Ing. de Sistemas:
-       https://cybertesis.unmsm.edu.pe/handle/20.500.12672/18699
->>>>>>> 53657e4020868212c1fd42d5142bb3546fa87ba5
       
    - Universidad San Ignacio de Loyola
      - URL: https://repositorio.usil.edu.pe/home
