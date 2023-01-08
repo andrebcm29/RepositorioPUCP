@@ -24,7 +24,7 @@ Se buscó automatizar la descarga de la información de los repositorios de las 
 
   - Universidad Nacional Mayor de San Marcos
      - URL: https://cybertesis.unmsm.edu.pe/
-     - URL de tesis de Ing. de Sistemas:
+     - URL de tesis de Ing. de Sistemas e Informatica:
        https://cybertesis.unmsm.edu.pe/handle/20.500.12672/129
 
 
