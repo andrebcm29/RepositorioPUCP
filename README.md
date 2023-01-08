@@ -21,10 +21,10 @@ Se buscó automatizar la descarga de la información de los repositorios de las 
      - URL tesis de Ing. Informática:
        https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/14
      
-   - Universidad de Lima
-     - URL: https://repositorio.ulima.edu.pe/
+  - Universidad Nacional Mayor de San Marcos
+     - URL: https://cybertesis.unmsm.edu.pe/
      - URL de tesis de Ing. de Sistemas:
-       https://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/14
+       https://cybertesis.unmsm.edu.pe/handle/20.500.12672/129
       
    - Universidad San Ignacio de Loyola
      - URL: https://repositorio.usil.edu.pe/home
